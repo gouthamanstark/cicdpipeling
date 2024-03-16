@@ -19,7 +19,7 @@ public class UserController {
     @GetMapping("/test")
     public String test(Model theModel){
 
-        return "map";
+        return "ma";
 
     }
 
